@@ -8,4 +8,4 @@
 <img alt="stats" src ="https://github-readme-stats.vercel.app/api?username=Jdmitchel&show_icons=true&theme=gruvbox"/> 
 <p hidden style="display:none;"> Credit to [Anurag's GitHub stats] </p>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdmitchel&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdmitchel&size_weight=0.5&count_weight=0.5&langs_count=8&theme=gruvbos&show_icons=true)
