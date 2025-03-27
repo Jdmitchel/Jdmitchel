@@ -1,8 +1,8 @@
 # Hi I am Jardel Mitchell
 
-Graduate at the University of the West Indies with a BSc. in Computer Science. I have an interest in Web Development (full stack, but more backend, than frontend), Networking as it is the foundation for communication, Cloud development due to is vast ability for scalability and integration and lastly DevOps as it is important for devlopment life cycle and is team oriented.
-
-`I look forward to varying and numerous collaborations, to allow for growth and continous learning.`
+I am currently a JR. SuccessFactors Associate, with a background in tech and an interest in cloud development and web based applications.
+Technology being a field with near endless possibilities continues to inspire me to learn and try various things. My goal is to understand and continously learn various aspects of tech and the world we live in.
+I'm always down for collaborations as long as my schedule allows it and if you're shy, i say "Hello, is the start of many great things".
 
 
 <img alt="stats" src ="https://github-readme-stats.vercel.app/api?username=Jdmitchel&show_icons=true&theme=gruvbox"/> 
